@@ -21,7 +21,7 @@ export default function App() {
           options = {{headerShown: false}}
         />
         <Stack.Screen 
-          name="Timer" 
+          name="ATimer" 
           component={AnimationTimer}
           options = {{headerShown: false}}
         />
